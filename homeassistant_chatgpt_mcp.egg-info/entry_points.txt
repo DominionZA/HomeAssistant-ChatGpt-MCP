@@ -1,2 +1,0 @@
-[console_scripts]
-homeassistant-chatgpt-mcp = mcp_server:run_server

@@ -1,9 +1,0 @@
-README.md
-mcp_server.py
-setup.py
-homeassistant_chatgpt_mcp.egg-info/PKG-INFO
-homeassistant_chatgpt_mcp.egg-info/SOURCES.txt
-homeassistant_chatgpt_mcp.egg-info/dependency_links.txt
-homeassistant_chatgpt_mcp.egg-info/entry_points.txt
-homeassistant_chatgpt_mcp.egg-info/requires.txt
-homeassistant_chatgpt_mcp.egg-info/top_level.txt
